@@ -3,3 +3,8 @@ __pycache__/
 .ipynb_checkpoints/
 venv/
 .venv/
+
+# Large data artifacts
+*.csv
+*.tsv
+*.parquet
